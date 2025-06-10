@@ -59,4 +59,4 @@ Match all pairs to win the game!
 
 🧑‍💻 Author
 
-Your Name – @RaghavGupta
+Your Name – Raghav Gupta 

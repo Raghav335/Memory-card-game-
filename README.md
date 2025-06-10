@@ -55,11 +55,7 @@ Match all pairs to win the game!
 https://github.com/Raghav335/Memory-card-game-/tree/main
 
 
-🧑‍💻 Author
-
-Your Name – Raghav Gupta #
-
- 👨‍💻 About Me : Raghav Gupta form BCA in Bareilly College Bareilly 
+🧑‍💻 Author : Raghav Gupta form BCA in Bareilly College Bareilly 
 
 Hii, I'm Raghav Gupta from ShahjahanpurUttar Pradesh. I'm passionate about programming and front-end development. I have experience in C Language, Data Structures, SQL, HTML, CSS, JavaScript, and more.
 
@@ -69,9 +65,5 @@ Hii, I'm Raghav Gupta from ShahjahanpurUttar Pradesh. I'm passionate about progr
 - 💻 [GitHub](https://github.com/Raghav335)
 - 📱 [WhatsApp](https://wa.me/+918382074540)
 
----# Basics-learning-on-Web-development.
-# 🚀  Web Project
 
-This is a simple project built using **HTML**, **CSS**, and **JavaScript**.  
-It demonstrates the basics of front-end web development.
 

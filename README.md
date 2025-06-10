@@ -52,7 +52,7 @@ Match all pairs to win the game!
 
 📸 Screenshot
 
-(https://github.com/Raghav335/Memory-card-game-/blob/main/memory%20card%20game.jpg)
+()
 
 
 ---

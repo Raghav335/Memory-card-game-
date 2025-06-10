@@ -24,7 +24,7 @@ memory-card-game/ │ ├── index.html       # Main HTML file ├── styl
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/memory-card-game.git
+   git clone https://github.com/Raghav335/memory-card-game.git
 
 2. Open index.html in your browser
 
